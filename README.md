@@ -2,8 +2,6 @@
 
 **Java-lette** is a Java console game that blends a Java OOP quiz with the suspense of Russian Roulette. Answer correctly and you are safe. Answer wrong and the trigger is pulled. Lose all 5 lives and it's game over.
 
-Made by **The Clique** (Team 13, CS-2102) for **OOP 101 – Object-Oriented Programming**, Batangas State University – The National Engineering University, Alangilan Campus.
-
 ---
 
 ## 💭 Overview
