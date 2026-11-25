@@ -28,7 +28,7 @@ You get a random OOP question each round. A correct answer earns **+10 points** 
 
 ## 🎲 Inspiration
 
-The dark, high-stakes "survive the gamble" idea behind Java-lette is inspired by **Buckshot Roulette**, an indie game by **Mike Klubnika** (released on itch.io in December 2023) that turns Russian Roulette into a survival game.
+The dark, high-stakes "survive the gamble" idea behind Java-lette is inspired by **Buckshot Roulette**, an indie game by **Mike Klubnika** that turns Russian Roulette into a survival game.
 
 - Reference: https://buckshotroulette.com/online
 
