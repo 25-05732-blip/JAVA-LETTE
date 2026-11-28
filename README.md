@@ -54,6 +54,7 @@ Submit Answer
         └─ Hit → Lose 1 life
               ├─ Lives left        → Re-spin & continue
               └─ No lives remaining → Game Over
+              └─ All questions answered → Game Cleared
   ↓
 (All questions answered → Game Cleared)
   ↓
